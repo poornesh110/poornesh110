@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Poornesh Naidu J
 - 👀 I’m interested in Coding
 - 🌱 I’m currently Studying B.Tech in Computer Science Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - email id: poornesh110@gmail.com
 
 <!---
 poornesh110/poornesh110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
