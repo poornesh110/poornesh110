@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Poornesh Naidu J
 - 👀 I’m interested in Coding
-- 🌱 I’m currently Studying B.Tech in Computer Science Engineering
+- 🌱 I’m currently Working in BT Group as Associate Engineer
 - 📫 How to reach me - email id: poornesh110@gmail.com
 
 <!---
